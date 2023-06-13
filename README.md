@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Soni[@alt-coder]
-- 👀 I’m interested in pyhton C++ and Android development in Flutter Framework
+- 👀 I’m interested in python C++ and Android development in Flutter Framework
 - 🌱 I’m currently learning Algorithms
 - 📫 You can reach me at nandcmos@gmail.com
 
